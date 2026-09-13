@@ -84,3 +84,8 @@ Eight screens, one clear path:
 ---
 
 *NHSY — group trip planning, without the group chat arguments.*
+
+Prototype:
+https://www.figma.com/design/T3F2Tf97bHziylRmnYAlfg/NHSY-%E2%80%94-Prototype?node-id=0-1&t=gmPACPQuN1CzhEjJ-1
+Slides: ideastion assets and overview:
+https://drive.google.com/drive/folders/1Sr2k9cGQYGWGhsj0towQV4zl9ePjSnWw?usp=sharing
